@@ -5,4 +5,4 @@ The demo can be viewed at https://v.youku.com/v_show/id_XNDE5NjgzNDk2MA==.html?s
 
 Hardware Design:
 You need to Prepare 4 thin Arcrylic Boards(1mm thick) and cut them into 4 identical pieces:
-A trapezium with height of 105mm, shorter edge of 30mm, longer edge of 180mm
+![Mirror Geometry](https://github.com/suncezhouyu/Pepper-s-Ghost----spinning-Earth/blob/master/8.png)
