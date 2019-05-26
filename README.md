@@ -7,5 +7,8 @@ Hardware Design:
 You need to Prepare 4 thin Arcrylic Boards(1mm thick) and cut them into 4 identical pieces:
 ![Mirror Geometry](https://github.com/suncezhouyu/Pepper-s-Ghost----spinning-Earth/blob/master/8.png)
 
-glue the 4 pieces into a funnel:
+glue the 4 pieces to form a funnel:
 ![funnel](https://github.com/suncezhouyu/Pepper-s-Ghost----spinning-Earth/blob/master/funnel.jpg)
+
+Software design:
+Imagine you have a mirror horizontally placed, facing downwards. A globe is placed under the mirror. So its image will be above the mirror.
