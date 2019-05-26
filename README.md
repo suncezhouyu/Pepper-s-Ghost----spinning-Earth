@@ -16,3 +16,5 @@ Imagine you have a mirror horizontally placed, facing downwards. A globe is plac
 But we don't have this globe under the mirror, so how can one still get an image? This can be done in 2 steps:
 1) replace the mirror by a flat computer monitor;
 2) place the funnel on the top of the monitor
+![funnel on monitor](https://github.com/suncezhouyu/Pepper-s-Ghost----spinning-Earth/blob/master/funnel_On_monitor.png)
+Instead of having a globe below the mirror, one can display the projected images of the globe from different directions on the monitor. The funnel reflects images at different sides, such that the audience always sees the correct part of the globe no matter what angle it looks from.
