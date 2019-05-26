@@ -12,3 +12,4 @@ glue the 4 pieces to form a funnel:
 
 Software design:
 Imagine you have a mirror horizontally placed, facing downwards. A globe is placed under the mirror. So its image will be above the mirror.
+![mirror image](https://github.com/suncezhouyu/Pepper-s-Ghost----spinning-Earth/blob/master/5.png)
